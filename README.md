@@ -1,4 +1,4 @@
-# ai_review_skill
+# Ai review skills
 
 **`phased-code-review`** — a Claude Code skill for deep code review and technical bug hunting on large or multi-component codebases (thousands of files; Windows services, RPC/IPC, daemons, libraries, external integrations).
 
